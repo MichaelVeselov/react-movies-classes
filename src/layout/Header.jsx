@@ -12,7 +12,9 @@ function Header() {
             </a>
           </li>
           <li>
-            <a href='!#'>Deploy</a>
+            <a href='https://mve-react-movies-classes.vercel.app/' target='_blank'>
+              Deploy
+            </a>
           </li>
           <li>
             <a href='https://github.com/MichaelVeselov' target='_blank'>
